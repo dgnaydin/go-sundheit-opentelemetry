@@ -1,4 +1,4 @@
-module github.com/AppsFlyer/go-sundheit-opentelemetry
+module github.com/dgnaydin/go-sundheit-opentelemetry
 
 go 1.17
 
